@@ -1,0 +1,8 @@
+export const CONSTANTS = {
+    HOSTNAME: '127.0.0.1',
+    PORT: 8080,
+    DBNAME: 'TODOS',
+    USERS_COLLECTION: 'USERS',
+    TASKS_COLLECTION: 'TASKS'
+}
+
